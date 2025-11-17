@@ -5,11 +5,6 @@
 - UBUNTU 20.04
 - DEBIAN 10
 
-GitHub Copilot Chat Assistant.
-
-Berikut isi README.md siap Anda paste ke https://github.com/heruhendri/script-auto-installer-vpn-v1/edit/main/README.md (saya tidak akan commit). Jika Anda mau saya yang commit, balas "commit".
-
----
 # Script Auto Installer VPN v1
 
 [![GitHub stars](https://img.shields.io/github/stars/heruhendri/script-auto-installer-vpn-v1?style=flat-square)](https://github.com/heruhendri/script-auto-installer-vpn-v1/stargazers)
